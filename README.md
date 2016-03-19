@@ -10,3 +10,4 @@
 
 - [许鲜](http://www.xuxian.com),便宜又新鲜.
 - [vladstudio](http://www.vladstudio.com),好看的壁纸.
+- 小米移动电源+小米LED灯的组合能秒杀很多台灯.

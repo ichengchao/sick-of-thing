@@ -27,7 +27,7 @@
 - Iphone游戏:`Ice Rage`
 - Iphone游戏:`iBomber Def`(塔防游戏),ipad版玩起来更爽.
 - Iphone播放器:`nPlayer`(播放器之王,贵有贵的道理)
-- Iphone下的`QQ邮箱`,能整合市面上的所有邮箱,很方便.
+- Iphone下的`QQ邮箱`,能整合市面上的所有主流邮箱,很方便.
 - Iphone下的`非常准`,坐飞机真少不了
 - Iphone下的`Castro`,泛用型播客客户端,体验一流,没有多余的东西
 

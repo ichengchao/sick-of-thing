@@ -9,8 +9,7 @@
 
 # 生活的美
 
-- [许鲜](http://www.xuxian.com),便宜又新鲜.
-- [vladstudio](http://www.vladstudio.com),好看的壁纸.
+- [BoradLink](http://www.broadlink.com.cn/),WIFI智能遥控,便宜又好用
 - 小米移动电源+小米LED灯的组合能秒杀很多台灯.
 
 # 软件&互联网服务
@@ -30,5 +29,6 @@
 - Iphone下的`QQ邮箱`,能整合市面上的所有主流邮箱,很方便.
 - Iphone下的`非常准`,坐飞机真少不了
 - Iphone下的`Castro`,泛用型播客客户端,体验一流,没有多余的东西
+- [vladstudio](http://www.vladstudio.com),好看的壁纸网站.买了会员,算是支持作者.
 
 

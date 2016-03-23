@@ -16,14 +16,14 @@
 # 软件&互联网服务
 >感谢有你
 
-- `Gmail`,有个小技巧:比如你的邮箱地址是`coder@gmail.com`.那么`coder+taobao@gmail.com`,`coder+baidu@gmail.com`都是你可以用的.
+- `Gmail`,有个小技巧:比如你的邮箱地址是`coder@gmail.com`.那么`coder+taobao@gmail.com`,`coder+baidu@gmail.com`都是你可以用的.这样就可以在注册不同网站的时候使用不同的邮箱地址,但都能用同一个邮箱收邮件.
 - Mac下的`Magnet`,用来管理窗口,很好用
 - Mac下抓包工具`Charles`和`Wireshark`
 - Mac大名鼎鼎的`Alfred`和`iTerm`
 - Python:`pyenv`(解决多版本)和`virtualenv`(虚拟环境)
 - Java:`jenv`(解决多版本)
 - Mac下的`MacDown`(免费的markdown编辑器)
-- Iphone游戏:`Table Tenni`s,便宜又好玩,超值.
+- Iphone游戏:`Table Tennis`,便宜又好玩,超值.
 - Iphone游戏:`Ice Rage`
 - Iphone游戏:`iBomber Def`(塔防游戏),ipad版玩起来更爽.
 - Iphone播放器:`nPlayer`(播放器之王,贵有贵的道理)

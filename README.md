@@ -31,6 +31,7 @@
 - `MacDown`,免费的markdown编辑器
 - Chrome插件
 	+ Vimium,神器,[入门介绍](http://sspai.com/27723)
+- Bitbar,菜单栏的插件,爱折腾的还可以自己写.
 
 ###iphone游戏
 - 游戏:`Table Tennis`,便宜又好玩,超值.

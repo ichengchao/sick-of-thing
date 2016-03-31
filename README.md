@@ -32,6 +32,8 @@
 - Chrome插件
 	+ Vimium,神器,[入门介绍](http://sspai.com/27723)
 - Bitbar,菜单栏的插件,爱折腾的还可以自己写.
+- [iStat Menus](https://bjango.com/mac/istatmenus/),菜单栏显示系统指标
+- Atom编辑器,Github出品,免费又好看,完全可以替代sublime
 
 ###iphone游戏
 - 游戏:`Table Tennis`,便宜又好玩,超值.

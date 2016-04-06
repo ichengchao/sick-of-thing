@@ -22,11 +22,12 @@
 ###mac
 - `Magnet`,用来管理窗口,很好用
 - 抓包工具`Charles`和`Wireshark`
-- 大名鼎鼎的`Alfred`,付费版可以安装workflow,我觉得还不错的有
+- 大名鼎鼎的`Alfred`,find,open(空格键)尤其好用.付费版可以安装workflow,我觉得还不错的有
 	+ Encode/Decode
 	+ Colors
 	+ Youdao (by samqiu)
 	+ Kill Process
+	+ [iTerm2的配置](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred)
 - `iTerm`,默认terminal的替代品
 - `MacDown`,免费的markdown编辑器
 - Chrome插件

@@ -35,6 +35,7 @@
 - Bitbar,菜单栏的插件,爱折腾的还可以自己写.
 - [iStat Menus](https://bjango.com/mac/istatmenus/),菜单栏显示系统指标
 - Atom编辑器,Github出品,免费又好看,完全可以替代sublime
+- Visual Studio Code,微软出品,免费,用着还不错
 - AppCleaner,应用删除工具
 - 1Password,经典密码管理工具,值得拥有
 - Dash,程序员必备文档查询工具,可以很方便的和Alfred配合使用

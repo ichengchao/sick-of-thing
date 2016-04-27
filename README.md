@@ -19,8 +19,9 @@
 - `Gmail`,有个小技巧:比如你的邮箱地址是`coder@gmail.com`.那么`coder+taobao@gmail.com`,`coder+baidu@gmail.com`都是你可以用的.这样就可以在注册不同网站的时候使用不同的邮箱地址,但都能用同一个邮箱收邮件.
 - [vladstudio](http://www.vladstudio.com),好看的壁纸网站.买了会员,算是支持作者.
 
-###mac
+###Mac
 - `Magnet`,用来管理窗口,很好用
+- `Divvy`,已经代替Magnet,成为我的窗口管理工具.
 - 抓包工具`Charles`和`Wireshark`
 - 大名鼎鼎的`Alfred`,find,open(空格键)尤其好用.付费版可以安装workflow,我觉得还不错的有
 	+ Encode/Decode
@@ -34,12 +35,17 @@
 	+ Vimium,神器,[入门介绍](http://sspai.com/27723)
 - Bitbar,菜单栏的插件,爱折腾的还可以自己写.
 - [iStat Menus](https://bjango.com/mac/istatmenus/),菜单栏显示系统指标
-- Atom编辑器,Github出品,免费又好看,完全可以替代sublime
-- Visual Studio Code,微软出品,免费,用着还不错
-- TextWrangler,免费的文本编辑器,打开速度很快.已经成为我的主力文本编辑器
 - AppCleaner,应用删除工具
 - 1Password,经典密码管理工具,值得拥有
 - Dash,程序员必备文档查询工具,可以很方便的和Alfred配合使用
+- oh-my-zsh加上autojump最佳终端
+
+###Mac编辑器
+- Atom编辑器,Github出品,免费又好看,完全可以替代sublime
+- Visual Studio Code,微软出品,免费,用着还不错
+- CotEditor,跟TextWrangler类似,比较简洁.底色能设置成透明色
+- TextWrangler,免费的文本编辑器,打开速度很快.已经成为我的主力文本编辑器
+	+ 可以格式化JSON,[设置方式](http://interactivelogic.net/wp/2013/07/how-to-format-json-in-textwrangler-iosdev-json-webdev/)
 
 ###iphone游戏
 - 游戏:`Table Tennis`,便宜又好玩,超值.

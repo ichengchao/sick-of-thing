@@ -9,9 +9,10 @@
 
 # 生活的美
 
-- [BoradLink](http://www.broadlink.com.cn/),WIFI智能遥控,便宜又好用
-- 小米移动电源+小米LED灯的组合能秒杀很多台灯.
-- 指纹锁,出门不用带钥匙,谁用谁知道.推荐三星的.
+- ~~[BoradLink](http://www.broadlink.com.cn/),WIFI智能遥控,便宜又好用~~
+- ~~小米移动电源+小米LED灯的组合能秒杀很多台灯.~~
+- ~~指纹锁,出门不用带钥匙,谁用谁知道.推荐三星的.~~现在选择更多了,比如过米家
+- 试试小米全家桶吧
 
 # 软件&互联网服务
 >感谢有"你们"
@@ -46,14 +47,14 @@
 - AppCleaner,应用删除工具
 - 👍1Password,经典密码管理工具,值得拥有
 - Dash,程序员必备文档查询工具,可以很方便的和Alfred配合使用
+- [etcher](https://www.balena.io/etcher/),将img,iso等烧录到SD卡或者U盘中
 
 ### Mac编辑器
-- Atom编辑器,Github出品,免费又好看,完全可以替代sublime,就是速度有点慢
-- Visual Studio Code,微软出品,免费,用着还不错
-- CotEditor,跟TextWrangler类似,比较简洁.底色能设置成透明色
-- 👍TextWrangler,免费的文本编辑器,打开速度很快.已经成为我的主力文本编辑器
+- ~~Atom编辑器,Github出品,免费又好看,完全可以替代sublime,就是速度有点慢~~
+- ~~CotEditor,跟TextWrangler类似,比较简洁.底色能设置成透明色~~
+- ~~👍TextWrangler,免费的文本编辑器,打开速度很快.已经成为我的主力文本编辑器
 	+ 可以格式化JSON,[设置方式](http://interactivelogic.net/wp/2013/07/how-to-format-json-in-textwrangler-iosdev-json-webdev/)
-
+- Visual Studio Code,微软出品,已经统一用这个了
 ### iphone游戏
 - 游戏:`Table Tennis`,便宜又好玩,超值.
 - 游戏:`Ice Rage`
